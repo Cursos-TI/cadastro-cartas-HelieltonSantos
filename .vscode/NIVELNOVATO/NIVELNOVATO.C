@@ -40,8 +40,6 @@ scanf("%f", &pib);
 printf("Digite Seus Pontos Turisticos:\n");
 scanf("%d", &pontosturisticos);
 
-#include 
-
 int carta2;                                             
 char estado2 [50] = "Céara";                             
 char Codigo2 [50] = "A02";                               
